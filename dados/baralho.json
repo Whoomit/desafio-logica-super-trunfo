@@ -1,0 +1,34 @@
+[
+  {
+    "codigo": "A1",
+    "nome": "Super Máquina",
+    "velocidade_max": 350,
+    "potencia": 700,
+    "tempo_0_100": 3.5,
+    "regras_especiais": ["super_trunfo"]
+  },
+  {
+    "codigo": "A2",
+    "nome": "Hiper Carro",
+    "velocidade_max": 380,
+    "potencia": 650,
+    "tempo_0_100": 3.8,
+    "regras_especiais": []
+  },
+  {
+    "codigo": "B1",
+    "nome": "Esportivo",
+    "velocidade_max": 280,
+    "potencia": 400,
+    "tempo_0_100": 5.1,
+    "regras_especiais": []
+  },
+  {
+    "codigo": "C1",
+    "nome": "Carro Comum",
+    "velocidade_max": 200,
+    "potencia": 150,
+    "tempo_0_100": 9.0,
+    "regras_especiais": []
+  }
+]
